@@ -1,0 +1,5 @@
+{
+  "name": "Tech Stack Analyzer",
+  "description": "An application that analyzes raw HTML content to identify the web technologies used, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
